@@ -1,7 +1,7 @@
 import numpy as np
 
-from hw2.layers import *
-from hw2.layer_utils import *
+from models_utils.layers import *
+from models_utils.layer_utils import *
 
 
 class TwoLayerNet(object):

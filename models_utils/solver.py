@@ -1,6 +1,6 @@
 import numpy as np
 
-from hw2 import optim
+from models_utils import optim
 
 
 class Solver(object):

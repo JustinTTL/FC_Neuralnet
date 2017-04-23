@@ -1,4 +1,4 @@
-from hw2.layers import *
+from models_utils.layers import *
 
 
 def affine_relu_forward(x, w, b):
